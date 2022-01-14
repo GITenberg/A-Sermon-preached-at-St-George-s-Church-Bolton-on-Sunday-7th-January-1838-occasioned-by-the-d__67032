@@ -1,5 +1,8 @@
 _repo: A-Sermon-preached-at-St-George-s-Church-Bolton-on-Sunday-7th-January-1838-occasioned-by-the-d__67032
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67032-h/images/cover.jpg
 creator:
   author:
     agent_name: Slade, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51837
     wikipedia: https://en.wikipedia.org/wiki/James_Slade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67032#A-Sermon-preached-at-St-George-s-Church-Bolton-on-Sunday-7th-January-1838-occasioned-by-the-d_
 gutenberg_issued: '2021-12-28'
 identifiers:
   gutenberg: '67032'
